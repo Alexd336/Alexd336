@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 
+<p align="left">
+ Diseñador UX/UI en evolución a Full Stack Designer, con una mezcla de creatividad y lógica para crear interfaces modernas y funcionales. Mi objetivo: transformar ideas en experiencias digitales que conecten con las personas y aporten valor real.
+</p>
 
 🌱 I’m currently learning **Full stack designer**
 
